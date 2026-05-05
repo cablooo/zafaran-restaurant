@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zafaran-restaurant/static/css/main.2ccd5fd0.css",
+    "main.js": "/zafaran-restaurant/static/js/main.be4e88b7.js",
+    "index.html": "/zafaran-restaurant/index.html",
+    "main.2ccd5fd0.css.map": "/zafaran-restaurant/static/css/main.2ccd5fd0.css.map",
+    "main.be4e88b7.js.map": "/zafaran-restaurant/static/js/main.be4e88b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ccd5fd0.css",
+    "static/js/main.be4e88b7.js"
+  ]
+}
